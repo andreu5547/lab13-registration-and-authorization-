@@ -1,1 +1,1 @@
-# lab13-registration-and-authorization-
+# Flask + Flask-SQLAlchemy :: registration and authorization page
